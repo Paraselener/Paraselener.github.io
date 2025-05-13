@@ -3,7 +3,7 @@ title: Paraselene's Blog
 SEOTitle: Paraselene的博客 | Paraselene Blog
 header-img: img/home-bg.png
 email: huayun3q@gmail.com
-description: "这里是 @Paraselene 的Blog，与你一起发现更大的世界"
+description: "这里是 @Paraselene 的Blog，一起出发吧。"
 keyword: "@Paraselene, Paraselene的博客, Paraselene Blog, 博客, 个人网站, 互联网, Web, 机械"
 url: "" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
@@ -13,10 +13,12 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: Paraselene
-zhihu_username: Paraselene
-github_username: Paraselene
-twitter_username: Paraselene
+#weibo_username: Paraselene
+# zhihu_username: Paraselene
+gmail_username: huayun3q@gmail.com
+github_username: Paraselener
+bilibili_username: 1491609882
+#twitter_username: Paraselene
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -74,7 +76,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "盛装出行 <br> React Team @ Meta"
+sidebar-about-description: "盛装出行 <br>一个梦想成为Physicist的Engineer. "
 sidebar-avatar: https://github.com/Paraselener.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
@@ -91,12 +93,11 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "乱序（Midare）", href: "http://mida.re/" },
-    { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
-    { title: "Kun Qian", href: "http://kunq.me" },
-    { title: "Sherry Woo", href: "https://sherrywoo.me/" },
-    { title: "SmdCn", href: "http://blog.smdcn.net" },
-    { title: "JiyinYiyong", href: "http://tiye.me/" },
-    { title: "DHong Say", href: "http://dhong.co" },
-    { title: "尹峰以为", href: "http://ingf.github.io/" },
+    { title: "大淇", href: "https://www.xiaohongshu.com/user/profile/5f998118000000000101e18a?xsec_token=YBt3FQfflxNK7eqfIkgvyNlVA6U4FiYcbXBPsGKOCUYzc%3D&xsec_source=app_share&xhsshare=CopyLink&appuid=64489c19000000000f006e04&apptime=1747064163&share_id=95a1e107542c40d7b67ca5ea7db2f207&share_channel=copy_link" },
+    #{ title: "Kun Qian", href: "http://kunq.me" },
+    #{ title: "Sherry Woo", href: "https://sherrywoo.me/" },
+    #{ title: "SmdCn", href: "http://blog.smdcn.net" },
+    #{ title: "JiyinYiyong", href: "http://tiye.me/" },
+    #{ title: "DHong Say", href: "http://dhong.co" },
+    #{ title: "尹峰以为", href: "http://ingf.github.io/" },
   ]
